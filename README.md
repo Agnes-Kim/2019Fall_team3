@@ -2,6 +2,13 @@
 ## Introduction
 Team3 repository for 2019 Fall Software Engineering Technologies
 
+
+## Target System
+BEKOOR6. The live streaming and shopping mobile application.
+* Interactive Commerce Platform
+* Mobile Shopping platform that enables user conveniece
+
+
 ## Member
 Full Name | Github ID | Email
 ----------|-----------|--------
